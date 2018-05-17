@@ -2,17 +2,17 @@
 This extension contains a popup with a single password input field set to autofocus.
 
 ## Why
-When a password field is set to focus, Firefox automatically closes the popup.
+When a password field is focused Firefox automatically closes the popup.
 
 ## Where
-This issue *is reproducable* on Ubuntu 18.04 LTS using Firefox versions:
+This issue **is reproducable** on Ubuntu 18.04 LTS using Firefox version(s):
 - Firefox Quantum 60.0 (64-bit)
 - Firefox Nightly 62.0a1 (2018-05-16) (64-bit)
 
-This issue *is not* reproducable on Windows 10 using Firefox version(s):
+This issue **is not** reproducable on Windows 10 using Firefox version(s):
 - Firefox Quantum 60.0.1 (64-bit)
 
-This issue *is not* reproducable on macOS 10.13.4 using Firefox version(s):
+This issue **is not** reproducable on macOS 10.13.4 using Firefox version(s):
 - Firefox Quantum 60.0.1 (64-bit)
 - Firefox Nightly 62.0a1 (2018-05-16) (64-bit)
 
