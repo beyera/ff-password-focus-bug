@@ -1,0 +1,11 @@
+{
+  "description": "Demonstrates a bug in Firefox (Linux) where attempting to focus a password field results in the popup being closed.",
+  "manifest_version": 2,
+  "name": "Firefox password focus bug",
+  "version": "0.1",
+  "homepage_url": "https://github.com/beyera/ff-password-focus-bug",
+  "browser_action": {
+    "default_title": "Popup contains one password field set to autofocus.",
+    "default_popup": "popup.html"
+  }
+}
